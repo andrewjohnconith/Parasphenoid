@@ -1,0 +1,66 @@
+﻿TPSord,Spec,ID,no,Species,Locality,LocalityName,SpeciesLocID,PhyloName,Depth,SpecimenID,VomerRadians,Csize
+37,01-0385,TrbdCH010385,385,Tropheops_black_dorsal,CH,Chiofu Bay,Tropheops_black_dorsal-CH,Tropheops_black_dorsal-CH,S,TrbdCH010385,1.558299769,23.66511319
+38,01-0386,TrbdCH010386,386,Tropheops_black_dorsal,CH,Chiofu Bay,Tropheops_black_dorsal-CH,Tropheops_black_dorsal-CH,S,TrbdCH010386,1.565857045,19.42016978
+56,01-388,TrbdCH010388,388,Tropheops_black_dorsal,CH,Chiofu Bay,Tropheops_black_dorsal-CH,Tropheops_black_dorsal-CH,S,TrbdCH010388,1.559294607,20.78456906
+29,01-0373,TrbdER010373,373,Tropheops_black_dorsal,ER,Eccles Reef,Tropheops_black_dorsal-ER,Tropheops_black_dorsal-ER,S,TrbdER010373,1.824759186,22.88072348
+57,Pt. bd 1 M..pts,TrbdMU010001,1,Tropheops_black_dorsal,MU,Mumbo Island,Tropheops_black_dorsal-MU,Tropheops_black_dorsal-MU,D,TrbdMU010001,1.840659136,17.96312495
+58,Pt. bd 2 M..pts,TrbdMU010002,2,Tropheops_black_dorsal,MU,Mumbo Island,Tropheops_black_dorsal-MU,Tropheops_black_dorsal-MU,D,TrbdMU010002,1.679530339,23.83313786
+59,Pt. bd 5 M..pts,TrbdMU010005,5,Tropheops_black_dorsal,MU,Mumbo Island,Tropheops_black_dorsal-MU,Tropheops_black_dorsal-MU,D,TrbdMU010005,1.85860112,22.06910761
+40,01-1003,TrbdWR011003,1003,Tropheops_black_dorsal,WR,West Reef,Tropheops_black_dorsal-WR,Tropheops_black_dorsal-WR,S,TrbdWR011003,1.670506987,23.7608718
+1,01-0106,TrbmOI010106,106,Tropheops_broadmouth,OI,Otter Island,Tropheops_broadmouth-OI,Tropheops_broadmouth-OI,D,TrbmOI010106,1.913125206,22.13089843
+2,01-0107,TrbmOI010107,107,Tropheops_broadmouth,OI,Otter Island,Tropheops_broadmouth-OI,Tropheops_broadmouth-OI,D,TrbmOI010107,1.884676339,21.00782022
+3,01-0108,TrbmOI010108,108,Tropheops_broadmouth,OI,Otter Island,Tropheops_broadmouth-OI,Tropheops_broadmouth-OI,D,TrbmOI010108,1.72888825,21.54740878
+25,01-0357,TrckCK010357,357,Tropheops_chinyankwazi,CK,Chinyankwazi,Tropheops_chinyankwazi-CK,Tropheops_chinyankwazi-CK,S,TrckCK010357,1.651622524,19.21929094
+26,01-0358,TrckCK010358,358,Tropheops_chinyankwazi,CK,Chinyankwazi,Tropheops_chinyankwazi-CK,Tropheops_chinyankwazi-CK,S,TrckCK010358,1.622684965,27.04022817
+27,01-0362,TrckCK010362,362,Tropheops_chinyankwazi,CK,Chinyankwazi,Tropheops_chinyankwazi-CK,Tropheops_chinyankwazi-CK,S,TrckCK010362,1.659930292,23.8049832
+22,01-0335,TrcwCW010335,335,Tropheops_chinyamwezi,CW,Chinyamwezi,Tropheops_chinyamwezi-CW,Tropheops_chinyamwezi-CW,S,TrcwCW010335,1.669320163,25.05028823
+23,01-0336,TrcwCW010336,336,Tropheops_chinyamwezi,CW,Chinyamwezi,Tropheops_chinyamwezi-CW,Tropheops_chinyamwezi-CW,S,TrcwCW010336,1.72066775,28.72104641
+24,01-0348,TrcwCW010348,348,Tropheops_chinyamwezi,CW,Chinyamwezi,Tropheops_chinyamwezi-CW,Tropheops_chinyamwezi-CW,S,TrcwCW010348,1.682514852,22.91045657
+28,01-0372,TregER010372,372,Tropheops_gold,ER,Eccles Reef,Tropheops_gold-ER,Tropheops_gold-ER,S,TregER010372,1.709759442,22.4351538
+30,01-0374,TregER010374,374,Tropheops_gold,ER,Eccles Reef,Tropheops_gold-ER,Tropheops_gold-ER,S,TregER010374,1.57945316,20.95275259
+33,01-0381,TrgcCH010381,381,Tropheops_gold_chest,CH,Chiofu Bay,Tropheops_gold_chest-CH,Tropheops_gold_chest-CH,S,TrgcCH010381,1.638724541,23.64815989
+34,01-0382,TrgcCH010382,382,Tropheops_gold_chest,CH,Chiofu Bay,Tropheops_gold_chest-CH,Tropheops_gold_chest-CH,S,TrgcCH010382,1.614377198,20.96782391
+35,01-0383,TrgcCH010383,383,Tropheops_gold_chest,CH,Chiofu Bay,Tropheops_gold_chest-CH,Tropheops_gold_chest-CH,S,TrgcCH010383,1.67476559,23.57242307
+36,01-0384,TrgcCH010384,384,Tropheops_gold_chest,CH,Chiofu Bay,Tropheops_gold_chest-CH,Tropheops_gold_chest-CH,S,TrgcCH010384,1.558317223,22.52701482
+60,Pt. gr 018,TrgrDI010008,8,Tropheops_gracilior,DI,Domwe Island,Tropheops_gracilior-DI,Tropheops_gracilior-DI,D,TrgrDI010008,1.843713462,28.52354218
+64,Tg. 10 DI,TrgrDI010010,10,Tropheops_gracilior,DI,Domwe Island,Tropheops_gracilior-DI,Tropheops_gracilior-DI,D,TrgrDI010010,1.784895866,22.57417697
+65,Tg. 27 DI     ,TrgrDI010027,27,Tropheops_gracilior,DI,Domwe Island,Tropheops_gracilior-DI,Tropheops_gracilior-DI,D,TrgrDI010027,1.751298278,22.7587158
+4,01-0109,TrgrOI010109,109,Tropheops_gracilior,OP,Otter Point,Tropheops_gracilior-OP,Tropheops_gracilior-OP,D,TrgrOI010109,1.791248865,23.31643485
+5,01-0124,TrgrOI010124,124,Tropheops_gracilior,OP,Otter Point,Tropheops_gracilior-OP,Tropheops_gracilior-OP,D,TrgrOI010124,1.814566463,22.88490362
+6,01-0131,TrgrOI010131,131,Tropheops_gracilior,OP,Otter Point,Tropheops_gracilior-OP,Tropheops_gracilior-OP,D,TrgrOI010131,1.701765834,25.1405304
+31,01-0375,TrinER010375,375,Tropheops_intermediate,ER,Eccles Reef,Tropheops_intermediate-ER,Tropheops_intermediate-ER,S,TrinER010375,1.776099407,27.30101639
+48,01-1645,TrinMZ011645,1645,Tropheops_intermediate,MZ,Mazinzi Reef,Tropheops_intermediate-MZ,Tropheops_intermediate-MZ,D,TrinMZ011645,1.712796315,24.8394966
+49,01-1646,TrinMZ011646,1646,Tropheops_intermediate,MZ,Mazinzi Reef,Tropheops_intermediate-MZ,Tropheops_intermediate-MZ,D,TrinMZ011646,1.685028126,23.83218268
+50,01-1647,TrinMZ011647,1647,Tropheops_intermediate,MZ,Mazinzi Reef,Tropheops_intermediate-MZ,Tropheops_intermediate-MZ,D,TrinMZ011647,1.740424877,23.5640356
+18,01-0197,TrinOI010197,197,Tropheops_intermediate,OI,Otter Island,Tropheops_intermediate-OI,Tropheops_intermediate-OI,D,TrinOI010197,1.713826059,23.99934011
+19,01-0198,TrinOI010198,198,Tropheops_intermediate,OI,Otter Island,Tropheops_intermediate-OI,Tropheops_intermediate-OI,D,TrinOI010198,1.732535989,25.75733525
+20,01-0301,TrinOI010301,301,Tropheops_intermediate,OI,Otter Island,Tropheops_intermediate-OI,Tropheops_intermediate-OI,D,TrinOI010301,1.782365139,25.07351123
+53,01-302,TrinOI010302,302,Tropheops_intermediate,OI,Otter Island,Tropheops_intermediate-OI,Tropheops_intermediate-OI,D,TrinOI010302,1.653053694,24.68971594
+14,01-0172,TrinTW010172,172,Tropheops_intermediate,TW,Thumbi West,Tropheops_intermediate-TW,Tropheops_intermediate-TW,D,TrinTW010172,1.911851116,25.34522539
+15,01-0181,TrinTW010181,181,Tropheops_intermediate,TW,Thumbi West,Tropheops_intermediate-TW,Tropheops_intermediate-TW,D,TrinTW010181,1.808789424,23.29680073
+16,01-0184,TrinTW010184,184,Tropheops_intermediate,TW,Thumbi West,Tropheops_intermediate-TW,Tropheops_intermediate-TW,D,TrinTW010184,1.830047534,24.58494171
+61,Pt. Li M. 01,TrliMU010001,1,Tropheops_lilac,MU,Mumbo Island,Tropheops_lilac-MU,Tropheops_lilac-MU,S,TrliMU010001,1.584252815,25.20944413
+62,Pt. Li M. 28,TrliMU010028,28,Tropheops_lilac,MU,Mumbo Island,Tropheops_lilac-MU,Tropheops_lilac-MU,S,TrliMU010028,1.710893906,25.87992106
+63,Pt. Li M. 29,TrliMU010029,29,Tropheops_lilac,MU,Mumbo Island,Tropheops_lilac-MU,Tropheops_lilac-MU,S,TrliMU010029,1.864273441,24.46503328
+51,01-1656,TrliMz011656,1656,Tropheops_lilac,MZ,Mazinzi Reef,Tropheops_lilac-MZ,Tropheops_lilac-MZ,S,TrliMz011656,1.744997639,25.93415664
+7,01-0151,TrliOP010151,151,Tropheops_lilac,OP,Otter Point,Tropheops_lilac-OP,Tropheops_lilac-OP,S,TrliOP010151,1.657033045,21.30844013
+8,01-0153,TrliOP010153,153,Tropheops_lilac,OP,Otter Point,Tropheops_lilac-OP,Tropheops_lilac-OP,S,TrliOP010153,1.580709797,24.16601739
+9,01-0156,TrliOP010156,156,Tropheops_lilac,OP,Otter Point,Tropheops_lilac-OP,Tropheops_lilac-OP,S,TrliOP010156,1.665148826,22.85223167
+10,01-0159,TrliTW010159,159,Tropheops_lilac,TW,Thumbi West,Tropheops_lilac-TW,Tropheops_lilac-TW,S,TrliTW010159,1.574583691,22.804387
+17,01-0196,TrliTW010196,196,Tropheops_lilac,TW,Thumbi West,Tropheops_lilac-TW,Tropheops_lilac-TW,S,TrliTW010196,1.607779854,25.75044922
+45,01-1148,TrmiOI011148,1148,Tropheops_microstoma,OI,Otter Island,Tropheops_microstoma-OP,Tropheops_microstoma-OP,D,TrmiOI011148,1.669564509,19.14119149
+55,01-322,TrmiOP010322,322,Tropheops_microstoma,OP,Otter Point,Tropheops_microstoma-OP,Tropheops_microstoma-OP,D,TrmiOP010322,1.748680284,22.49525784
+44,01-1147,TrmiOP011147,1147,Tropheops_microstoma,OP,Otter Point,Tropheops_microstoma-OP,Tropheops_microstoma-OP,D,TrmiOP011147,1.710736826,19.82030319
+32,01-0376,TrocER010376,376,Tropheops_orange_chest,ER,Eccles Reef,Tropheops_orange_chest-ER,Tropheops_orange_chest-ER,S,TrocER010376,1.779101373,29.66211016
+46,01-1601,TrocMZ011601,1601,Tropheops_orange_chest,MZ,Mazinzi Reef,Tropheops_orange_chest-MZ,Tropheops_orange_chest-MZ,S,TrocMZ011601,1.575351636,18.56266609
+47,01-1602,TrocMZ011602,1602,Tropheops_orange_chest,MZ,Mazinzi Reef,Tropheops_orange_chest-MZ,Tropheops_orange_chest-MZ,S,TrocMZ011602,1.596138508,21.22022744
+54,01-303,TrocTW010303,303,Tropheops_orange_chest,TW,Thumbi West,Tropheops_orange_chest-TW,Tropheops_orange_chest-TW,S,TrocTW010303,1.657609004,24.58856093
+21,01-0307,TrocTW010307,307,Tropheops_orange_chest,TW,Thumbi West,Tropheops_orange_chest-TW,Tropheops_orange_chest-TW,S,TrocTW010307,1.66930271,24.73745596
+11,01-0160,TrrcTW010160,160,Tropheops_red_cheek,TW,Thumbi West,Tropheops_red_cheek-TW,Tropheops_red_cheek-TW,S,TrrcTW010160,1.588197259,22.39649853
+12,01-0161,TrrcTW010161,161,Tropheops_red_cheek,TW,Thumbi West,Tropheops_red_cheek-TW,Tropheops_red_cheek-TW,S,TrrcTW010161,1.679931765,21.28007254
+13,01-0163,TrrcTW010163,163,Tropheops_red_cheek,TW,Thumbi West,Tropheops_red_cheek-TW,Tropheops_red_cheek-TW,S,TrrcTW010163,1.609821889,22.70060121
+39,01-0398,TrwdNM010398,398,Tropheops_white_dorsal,NM,Nantumbwi,Tropheops_white_dorsal-NM,Tropheops_white_dorsal-NM,S,TrwdNM010398,1.642459546,20.36307631
+52,01-1754,TrzeMU011754,1754,Tropheops_zebra,MU,Mumbo Island,Tropheops_zebra-MU,Tropheops_zebra-MU,D,TrzeMU011754,1.832962234,18.42258995
+41,01-1115,TrzrZR011115,1115,Tropheops_zimbawe,ZR,Zimbawe Rock,Tropheops_zimbawe-ZR,Tropheops_zimbawe-ZR,S,TrzrZR011115,1.700212491,28.11335591
+42,01-1118,TrzrZR011118,1118,Tropheops_zimbawe,ZR,Zimbawe Rock,Tropheops_zimbawe-ZR,Tropheops_zimbawe-ZR,S,TrzrZR011118,1.671519278,31.27168273
+43,01-1121,TrzrZR011121,1121,Tropheops_zimbawe,ZR,Zimbawe Rock,Tropheops_zimbawe-ZR,Tropheops_zimbawe-ZR,S,TrzrZR011121,1.862405938,30.34055405
